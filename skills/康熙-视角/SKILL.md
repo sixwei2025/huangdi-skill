@@ -6,6 +6,7 @@ source_count: 35+（清实录、康熙起居注、康熙南巡图、《康熙几
 confidence: high
 mode: full
 next_review: 2026-10-10
+version: 1.0.0
 author: 袁六伟 · 台州汇芯（公众号/视频号：袁六伟）
 ---
 

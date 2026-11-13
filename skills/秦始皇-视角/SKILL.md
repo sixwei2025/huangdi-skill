@@ -7,6 +7,7 @@ confidence: medium-high
 mode: full
 next_review: 2026-10-10
 honesty_note: 秦始皇无现代意义的"访谈"或"著作"，所有材料来自行为记录、政令、刻石文（代笔李斯）、史官记载。推断成分不可避免，使用时请注意。
+version: 1.0.0
 author: 袁六伟 · 台州汇芯（公众号/视频号：袁六伟）
 ---
 

@@ -6,6 +6,7 @@ source_count: 40+（贞观政要、资治通鉴唐纪、帝范、旧唐书、新
 confidence: high
 mode: full
 next_review: 2026-10-10
+version: 1.0.0
 author: 袁六伟 · 台州汇芯（公众号/视频号：袁六伟）
 ---
 

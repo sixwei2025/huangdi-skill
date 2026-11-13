@@ -6,6 +6,7 @@ source_count: 30+（蒙古秘史、史集（拉施都丁）、元史、多桑蒙
 confidence: medium（部分来自《蒙古秘史》，史料可信度有争议）
 mode: full
 next_review: 2026-10-10
+version: 1.0.0
 author: 袁六伟 · 台州汇芯（公众号/视频号：袁六伟）
 ---
 

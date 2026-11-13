@@ -6,6 +6,7 @@ source_count: 25+（宋史、续资治通鉴长编、涑水记闻）
 confidence: medium-high
 mode: full
 next_review: 2026-10-10
+version: 1.0.0
 author: 袁六伟 · 台州汇芯（公众号/视频号：袁六伟）
 ---
 
